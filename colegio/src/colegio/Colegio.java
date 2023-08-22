@@ -12,7 +12,7 @@ public class Colegio{
 		this.nome = nome;
 	}
 	
-	public Colegio() {
+	public Colegio() {//construtor vazio
 	}
 
 	public String getNome() {

@@ -18,7 +18,7 @@ public class Principal {
 		
 		switch(escolha) {
 			case 1:
-				System.out.println("Digite o Nome e a idade");
+				System.out.println("Digite o Nome e a idade de quem deseja adicionar");//colocando um nome extra
 				aluno.adiciona(new Aluno(sc.nextLine(), sc.nextInt()));
 			break;
 			case 2:

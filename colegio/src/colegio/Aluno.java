@@ -12,7 +12,7 @@ public class Aluno implements Comparable<Aluno>{
 		this.idade = idade;
 	}
 
-	public Aluno() {
+	public Aluno() {//construtor vazio
 	}
 
 	public String getNomeAluno() {
