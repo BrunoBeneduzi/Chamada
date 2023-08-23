@@ -1,7 +1,7 @@
 package colegio;
 import java.util.*;
 public class Principal {
-
+//23/08/2023
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Colegio aluno = new Colegio("Marista");
